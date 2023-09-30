@@ -17,7 +17,7 @@ Follow these steps to run the Stock Trend Prediction App on your local machine:
 1. **Clone the Repository:**
 
    ```shell
-   git clone https://github.com/https://github.com/Rafe2001/Stock_Trend_Prediction.git
+   git clone https://github.com/Rafe2001/Stock_Trend_Prediction.git
    ```
 
 2. **Navigate to the Project Directory:**
